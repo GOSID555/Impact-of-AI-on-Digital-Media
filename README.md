@@ -59,7 +59,6 @@
 
 ---
 ## Timeline
-- Phase	วันที่แล้วเสร็จ
 - Project Canvas	15 พ.ค. 2569
 - Data Cleaning	17 พ.ค. 2569
 - Exploratory Data Analysis	18 พ.ค. 2569
