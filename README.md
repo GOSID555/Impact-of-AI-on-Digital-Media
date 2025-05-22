@@ -33,3 +33,36 @@
 - อธิบายการวิเคราะห์เชิงลึกด้วยโค้ด Python (Linear Regression)
 
 ---
+## Key Findings
+- อัตราการเลิกจ้างมีแนวโน้มสูงขึ้นในบางอุตสาหกรรมย่อย เช่น โฆษณา และข่าว
+
+- การยอมรับ AI ที่สูงมีความสัมพันธ์กับการเปลี่ยนแปลงการจ้างงาน
+
+- การร่วมมือระหว่างมนุษย์กับ AI ช่วยลดความเสี่ยงในการตกงานในบางภูมิภาค
+---
+## Recommendations
+- พัฒนาทักษะร่วมกับ AI เช่น Data Storytelling, Prompt Engineering
+
+- ให้ความสำคัญกับ Human-AI Collaboration เพื่อรักษาคุณค่าในการทำงาน
+
+- บริษัทควรลงทุนในการ Reskilling โดยเฉพาะในตำแหน่งที่กำลังถูกแทนที่
+---
+## Tools Used
+- Python (Pandas, Matplotlib, Scikit-learn)
+
+- Jupyter Notebook
+
+- Tableau Public
+
+- GitHub
+
+
+---
+## Timeline
+- Phase	วันที่แล้วเสร็จ
+- Project Canvas	15 พ.ค. 2569
+- Data Cleaning	17 พ.ค. 2569
+- Exploratory Data Analysis	18 พ.ค. 2569
+- In-Depth Analysis	19 พ.ค. 2569
+- Dashboard + Video	20–21 พ.ค. 2569
+- Submission 22 พ.ค. 2569
